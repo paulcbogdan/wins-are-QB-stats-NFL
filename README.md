@@ -1,0 +1,1 @@
+wins are a QB stat
