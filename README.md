@@ -1,5 +1,3 @@
-For main writeup see this [Reddit post](https://www.reddit.com/r/nfl/comments/jeratd/are_wins_a_qb_stat_statistical_analyses_on_the/)
-
 ## What is a "QB stat"?
 
 Surely passing yards is a QB stat. Likewise, completion percentage, sack rates, and touchdowns must be QB stats too, right? 
@@ -26,4 +24,6 @@ Now this is not to say that wins are the best QB stat. *Yards per play* is the b
 
 ## Conclusion
 
-Wins actually are a QB stat. Wins differentiate good vs. bad QBs better than passing touchdowns, completion percentage, sack rate, and interception rate. Wins are not the best QB stat, yards per play and first down rate are better. Nonetheless, wins are a solid QB stat and should be considered when evaluating a quarterback. 
+Wins actually are a QB stat. Wins differentiate good vs. bad QBs better than passing touchdowns, completion percentage, sack rate, and interception rate. Wins are not the best QB stat, yards per play and first down rate are better. Nonetheless, wins are a solid QB stat and should be considered when evaluating a quarterback.
+
+For original writeup see this [Reddit post](https://www.reddit.com/r/nfl/comments/jeratd/are_wins_a_qb_stat_statistical_analyses_on_the/)
